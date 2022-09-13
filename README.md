@@ -7,7 +7,7 @@ A completed bootcamp challenge for refractoring code
 
 
 ## Completed Page:
-![Screenshot of Webpage](assets\images\Screenshot-webpage.png?raw=true "Screenshot")
+![Screenshot of Webpage](assets/images/Screenshot-webpage.png?raw=true "Screenshot")
 
 ## URL:
 https://griffinnb.github.io/module-1-challenge/ 
